@@ -1,0 +1,17 @@
+.btn__cart{
+    width: 100px;
+    height: 22px;
+    font-size: 1rem;
+    background-color: #d51920;
+    color: white;
+    font-weight: 700;
+    font-family: 'FranklinGothic';
+    border: none;
+    cursor:pointer;
+    margin:auto 0;
+}
+.input__cart{
+    width: 150px;
+    border: none;
+    border-radius: 0;
+}
