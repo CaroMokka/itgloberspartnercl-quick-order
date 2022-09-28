@@ -68,15 +68,15 @@ const QuickOrder = () => {
     }
 
     return (
-        <div className="flex flex-column items-center">
+        <div className={styles.container__quickorder}>
             <h2 className="f2" >Compra rápida en Vans</h2>
-            <div className="pb4">
+            <div className={styles.container__form}>
                 <form onSubmit={searchProduct} className="flex">
                     <div className="ph3">
                         <label className="ph3" htmlFor="sku" >INGRESE SKU</label>
                         <input className={styles.input__cart} id="sku" type="text" onChange={handleChange} />
                     </div>
-                    <div>
+                    <div className={styles.form__submit}>
                         <input className={styles.btn__cart} type="submit" value="COMPRAR" />
                     </div>
                 </form>
