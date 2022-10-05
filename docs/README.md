@@ -103,3 +103,6 @@ Siguiendo con el proceso, el comando `vtex link` nos permitirá vincular nuestro
 
 Si el proceso se ejecuta sin ningún error, se mostrará el siguiente mensaje: Aplicación vinculada con éxito. 
 Esto le permitirá ver los cambios aplicados en tiempo real, a través de la cuenta y el espacio de trabajo.
+
+## Colaboradores
+- Carolina Araya González
